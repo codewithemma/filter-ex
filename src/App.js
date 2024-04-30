@@ -2,7 +2,7 @@ import "./App.css";
 import { buttons } from "./ButtonData";
 import { useEffect, useState } from "react";
 import { getData, filterData } from "./Services";
-const ItemsPerPage = 5;
+const ItemsPerPage = 10;
 function App() {
   const [filteredData, setFilteredData] = useState(null);
   const [query, setQuery] = useState("");
@@ -41,14 +41,17 @@ function App() {
   };
   return (
     <div className="App">
-      {buttons &&
-        buttons.map((item) => (
-          <div key={item.id}>
-            <button value={item.value} onClick={handleData}>
-              {item.name}
-            </button>
-          </div>
-        ))}
+      <div className="btn-group">
+        {buttons &&
+          buttons.map((item) => (
+            <div key={item.id}>
+              <button value={item.value} onClick={handleData}>
+                {item.name}
+              </button>
+            </div>
+          ))}
+      </div>
+
       <div className="input-group">
         <input type="text" placeholder="search" onChange={handleChange} />
       </div>
@@ -66,16 +69,20 @@ function App() {
             ?.map((data) => {
               return (
                 <div className="card" key={data.id}>
-                  <h2>{data.name}</h2>
-                  <p>{data.position}</p>
-                  <p className="party">{data.party}</p>
-                  <p>{data.constituency}</p>
+                  <div>
+                    <img src={data.img} alt={data.name} />
+                  </div>
+                  <div className="pp">
+                    <h2>{data.name}</h2>
+                    <p>{data.position}</p>
+                    <p className="party">{data.party}</p>
+                    <p>{data.constituency}</p>
+                  </div>
                 </div>
               );
             })}
       </div>
       <div>
-        {" "}
         <button onClick={handlePrevPage} disabled={currentPage === 1}>
           Previous
         </button>

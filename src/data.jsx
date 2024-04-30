@@ -1,3 +1,83 @@
+import img1 from "./houseofreps/Hon.-Kingsley-Ogundu-Chinda.png";
+// import img1 from "./houseofreps/Hon.-Kingsley-Ogundu-Chinda.png";
+// import img1 from "./houseofreps/Hon.-Kingsley-Ogundu-Chinda.png";
+// import img1 from "./houseofreps/Hon.-Kingsley-Ogundu-Chinda.png";
+// import img1 from "./houseofreps/Hon.-Kingsley-Ogundu-Chinda.png";
+// import img1 from "./houseofreps/Hon.-Kingsley-Ogundu-Chinda.png";
+// import img1 from "./houseofreps/Hon.-Kingsley-Ogundu-Chinda.png";
+// import img1 from "./houseofreps/Hon.-Kingsley-Ogundu-Chinda.png";
+// import img1 from "./houseofreps/Hon.-Kingsley-Ogundu-Chinda.png";
+// import img1 from "./houseofreps/Hon.-Kingsley-Ogundu-Chinda.png";
+// import img1 from "./houseofreps/Hon.-Kingsley-Ogundu-Chinda.png";
+// import img1 from "./houseofreps/Hon.-Kingsley-Ogundu-Chinda.png";
+// import img1 from "./houseofreps/Hon.-Kingsley-Ogundu-Chinda.png";
+// import img1 from "./houseofreps/Hon.-Kingsley-Ogundu-Chinda.png";
+// import img1 from "./houseofreps/Hon.-Kingsley-Ogundu-Chinda.png";
+// import img1 from "./houseofreps/Hon.-Kingsley-Ogundu-Chinda.png";
+// import img1 from "./houseofreps/Hon.-Kingsley-Ogundu-Chinda.png";
+// import img1 from "./houseofreps/Hon.-Kingsley-Ogundu-Chinda.png";
+// import img1 from "./houseofreps/Hon.-Kingsley-Ogundu-Chinda.png";
+// import img1 from "./houseofreps/Hon.-Kingsley-Ogundu-Chinda.png";
+// import img1 from "./houseofreps/Hon.-Kingsley-Ogundu-Chinda.png";
+// import img1 from "./houseofreps/Hon.-Kingsley-Ogundu-Chinda.png";
+// import img1 from "./houseofreps/Hon.-Kingsley-Ogundu-Chinda.png";
+// import img1 from "./houseofreps/Hon.-Kingsley-Ogundu-Chinda.png";
+// import img1 from "./houseofreps/Hon.-Kingsley-Ogundu-Chinda.png";
+// import img1 from "./houseofreps/Hon.-Kingsley-Ogundu-Chinda.png";
+// import img1 from "./houseofreps/Hon.-Kingsley-Ogundu-Chinda.png";
+// import img1 from "./houseofreps/Hon.-Kingsley-Ogundu-Chinda.png";
+// import img1 from "./houseofreps/Hon.-Kingsley-Ogundu-Chinda.png";
+// import img1 from "./houseofreps/Hon.-Kingsley-Ogundu-Chinda.png";
+// import img1 from "./houseofreps/Hon.-Kingsley-Ogundu-Chinda.png";
+// import img1 from "./houseofreps/Hon.-Kingsley-Ogundu-Chinda.png";
+// import img1 from "./houseofreps/Hon.-Kingsley-Ogundu-Chinda.png";
+// import img1 from "./houseofreps/Hon.-Kingsley-Ogundu-Chinda.png";
+// import img1 from "./houseofreps/Hon.-Kingsley-Ogundu-Chinda.png";
+// import img1 from "./houseofreps/Hon.-Kingsley-Ogundu-Chinda.png";
+// import img1 from "./houseofreps/Hon.-Kingsley-Ogundu-Chinda.png";
+// import img1 from "./houseofreps/Hon.-Kingsley-Ogundu-Chinda.png";
+// import img1 from "./houseofreps/Hon.-Kingsley-Ogundu-Chinda.png";
+// import img1 from "./houseofreps/Hon.-Kingsley-Ogundu-Chinda.png";
+// import img1 from "./houseofreps/Hon.-Kingsley-Ogundu-Chinda.png";
+// import img1 from "./houseofreps/Hon.-Kingsley-Ogundu-Chinda.png";
+// import img1 from "./houseofreps/Hon.-Kingsley-Ogundu-Chinda.png";
+// import img1 from "./houseofreps/Hon.-Kingsley-Ogundu-Chinda.png";
+// import img1 from "./houseofreps/Hon.-Kingsley-Ogundu-Chinda.png";
+// import img1 from "./houseofreps/Hon.-Kingsley-Ogundu-Chinda.png";
+// import img1 from "./houseofreps/Hon.-Kingsley-Ogundu-Chinda.png";
+// import img1 from "./houseofreps/Hon.-Kingsley-Ogundu-Chinda.png";
+// import img1 from "./houseofreps/Hon.-Kingsley-Ogundu-Chinda.png";
+// import img1 from "./houseofreps/Hon.-Kingsley-Ogundu-Chinda.png";
+// import img1 from "./houseofreps/Hon.-Kingsley-Ogundu-Chinda.png";
+// import img1 from "./houseofreps/Hon.-Kingsley-Ogundu-Chinda.png";
+// import img1 from "./houseofreps/Hon.-Kingsley-Ogundu-Chinda.png";
+// import img1 from "./houseofreps/Hon.-Kingsley-Ogundu-Chinda.png";
+// import img1 from "./houseofreps/Hon.-Kingsley-Ogundu-Chinda.png";
+// import img1 from "./houseofreps/Hon.-Kingsley-Ogundu-Chinda.png";
+// import img1 from "./houseofreps/Hon.-Kingsley-Ogundu-Chinda.png";
+// import img1 from "./houseofreps/Hon.-Kingsley-Ogundu-Chinda.png";
+// import img1 from "./houseofreps/Hon.-Kingsley-Ogundu-Chinda.png";
+// import img1 from "./houseofreps/Hon.-Kingsley-Ogundu-Chinda.png";
+// import img1 from "./houseofreps/Hon.-Kingsley-Ogundu-Chinda.png";
+// import img1 from "./houseofreps/Hon.-Kingsley-Ogundu-Chinda.png";
+// import img1 from "./houseofreps/Hon.-Kingsley-Ogundu-Chinda.png";
+// import img1 from "./houseofreps/Hon.-Kingsley-Ogundu-Chinda.png";
+// import img1 from "./houseofreps/Hon.-Kingsley-Ogundu-Chinda.png";
+// import img1 from "./houseofreps/Hon.-Kingsley-Ogundu-Chinda.png";
+// import img1 from "./houseofreps/Hon.-Kingsley-Ogundu-Chinda.png";
+// import img1 from "./houseofreps/Hon.-Kingsley-Ogundu-Chinda.png";
+// import img1 from "./houseofreps/Hon.-Kingsley-Ogundu-Chinda.png";
+// import img1 from "./houseofreps/Hon.-Kingsley-Ogundu-Chinda.png";
+// import img1 from "./houseofreps/Hon.-Kingsley-Ogundu-Chinda.png";
+// import img1 from "./houseofreps/Hon.-Kingsley-Ogundu-Chinda.png";
+// import img1 from "./houseofreps/Hon.-Kingsley-Ogundu-Chinda.png";
+// import img1 from "./houseofreps/Hon.-Kingsley-Ogundu-Chinda.png";
+// import img1 from "./houseofreps/Hon.-Kingsley-Ogundu-Chinda.png";
+// import img1 from "./houseofreps/Hon.-Kingsley-Ogundu-Chinda.png";
+// import img1 from "./houseofreps/Hon.-Kingsley-Ogundu-Chinda.png";
+// import img1 from "./houseofreps/Hon.-Kingsley-Ogundu-Chinda.png";
+// import img1 from "./houseofreps/Hon.-Kingsley-Ogundu-Chinda.png";
+
 export const DATAS = [
   {
     id: 1,
@@ -5,7 +85,7 @@ export const DATAS = [
     position: "Minority Leader",
     party: "PDP",
     constituency: "Obio/Akpor Federal Constituency",
-    img: "https://example.com/candidate1.jpg",
+    img: img1,
   },
   {
     id: 2,
@@ -13,7 +93,7 @@ export const DATAS = [
     position: "Minority Whip",
     party: "PDP",
     constituency: "Balanga/Billiri Federal Constituency  ",
-    img: "https://example.com/candidate2.jpg",
+    img: img1,
   },
   {
     id: 3,
@@ -21,7 +101,7 @@ export const DATAS = [
     position: "Deputy Minority Leader",
     party: "NNPP",
     constituency: "Dala Federal Constituency",
-    img: "https://example.com/candidate3.jpg",
+    img: img1,
   },
   {
     id: 4,
@@ -29,7 +109,7 @@ export const DATAS = [
     position: "Member",
     party: "LP",
     constituency: "Njikoka/Dunukofia/Anaocha Federal Constituency",
-    img: "https://example.com/candidate4.jpg",
+    img: img1,
   },
   {
     id: 5,
@@ -37,7 +117,7 @@ export const DATAS = [
     position: "Member",
     party: "PDP",
     constituency: "Sagbama Ekeremor Federal Constituency",
-    img: "https://example.com/candidate5.jpg",
+    img: img1,
   },
   {
     id: 6,
@@ -45,7 +125,7 @@ export const DATAS = [
     position: "Position 5",
     party: "SDP",
     constituency: "Karu/Keffi/Kokona Federal Constituency",
-    img: "https://example.com/candidate6.jpg",
+    img: img1,
   },
   {
     id: 7,
@@ -53,7 +133,7 @@ export const DATAS = [
     position: "Member",
     party: "NNPP",
     constituency: "Gwale/Kano Federal Constituency",
-    img: "https://example.com/candidate7.jpg",
+    img: img1,
   },
   {
     id: 8,
@@ -61,7 +141,7 @@ export const DATAS = [
     position: "Member",
     party: "LP",
     constituency: "Barkin-Ladi/Riyom Federal Constituency",
-    img: "https://example.com/candidate8.jpg",
+    img: img1,
   },
   {
     id: 9,
@@ -69,7 +149,7 @@ export const DATAS = [
     position: "Member",
     party: "PDP",
     constituency: "Ogoja/Yala Federal Constituency ",
-    img: "https://example.com/candidate9.jpg",
+    img: img1,
   },
   {
     id: 10,
@@ -77,7 +157,7 @@ export const DATAS = [
     position: "Member",
     party: "LP",
     constituency: "Jos South/Jos East Federal",
-    img: "https://example.com/candidate10.jpg",
+    img: img1,
   },
   {
     id: 11,
@@ -85,7 +165,7 @@ export const DATAS = [
     position: "Member",
     party: "PDP",
     constituency: "Ibadan North east/South East Federal Constituency",
-    img: "https://example.com/candidate11.jpg",
+    img: img1,
   },
   {
     id: 12,
@@ -93,7 +173,7 @@ export const DATAS = [
     position: "Member",
     party: "PDP",
     constituency: "Dukku/Nafada Federal Constituency ",
-    img: "https://example.com/candidate12.jpg",
+    img: img1,
   },
   {
     id: 13,
@@ -101,7 +181,7 @@ export const DATAS = [
     position: "Member",
     party: "NNPP",
     constituency: "Karaye/Rogo Federal Constituency ",
-    img: "https://example.com/candidate13.jpg",
+    img: img1,
   },
   {
     id: 14,
@@ -109,7 +189,7 @@ export const DATAS = [
     position: "Member",
     party: "PDP",
     constituency: "Adavi/Okehi Federal Constituency",
-    img: "https://example.com/candidate14.jpg",
+    img: img1,
   },
   {
     id: 15,
@@ -117,7 +197,7 @@ export const DATAS = [
     position: "Member",
     party: "PDP",
     constituency: "Chanchaga Federal Constituency",
-    img: "https://example.com/candidate15.jpg",
+    img: img1,
   },
   {
     id: 16,
@@ -125,7 +205,7 @@ export const DATAS = [
     position: "Member",
     party: "PDP",
     constituency: "Suleja/Gurara Federal Constituency",
-    img: "https://example.com/candidate16.jpg",
+    img: img1,
   },
   {
     id: 17,
@@ -133,7 +213,7 @@ export const DATAS = [
     position: "Member",
     party: "PDP",
     constituency: "Irepodun, Orolu, Olorunda, Osogbo Federal Constituency",
-    img: "https://example.com/candidate17.jpg",
+    img: img1,
   },
   {
     id: 18,
@@ -141,7 +221,7 @@ export const DATAS = [
     position: "Member",
     party: "LP",
     constituency: "Calabar Municipal/Odukpani Federal Constituency",
-    img: "https://example.com/candidate11.jpg",
+    img: img1,
   },
   {
     id: 19,
@@ -149,7 +229,7 @@ export const DATAS = [
     position: "Member",
     party: "PDP",
     constituency: "Idanre/Ifedore Federal Constituency",
-    img: "https://example.com/candidate11.jpg",
+    img: img1,
   },
   {
     id: 20,
@@ -157,7 +237,7 @@ export const DATAS = [
     position: "Member",
     party: "PDP",
     constituency: "Bauchi Federal Constituency ",
-    img: "https://example.com/candidate12.jpg",
+    img: img1,
   },
   {
     id: 21,
@@ -165,7 +245,7 @@ export const DATAS = [
     position: "Member",
     party: "PDP",
     constituency: "Misau/Dambam Federal Constituency",
-    img: "https://example.com/candidate13.jpg",
+    img: img1,
   },
   {
     id: 22,
@@ -173,7 +253,7 @@ export const DATAS = [
     position: "Member",
     party: "PDP",
     constituency: "Ikara/Kursau Federal Constituency ",
-    img: "https://example.com/candidate14.jpg",
+    img: img1,
   },
   {
     id: 23,
@@ -181,7 +261,7 @@ export const DATAS = [
     position: "Member",
     party: "LP",
     constituency: "Isiukwuato/Umunneochi Federal Constituency",
-    img: "https://example.com/candidate15.jpg",
+    img: img1,
   },
   {
     id: 24,
@@ -189,7 +269,7 @@ export const DATAS = [
     position: "Member",
     party: "PDP",
     constituency: "Jaba/Zangon Kataf Federal Constituency",
-    img: "https://example.com/candidate16.jpg",
+    img: img1,
   },
   {
     id: 25,
@@ -197,7 +277,7 @@ export const DATAS = [
     position: "Member",
     party: "LP",
     constituency: "Anambra East/West Federal Constituency",
-    img: "https://example.com/candidate17.jpg",
+    img: img1,
   },
   {
     id: 26,
@@ -205,7 +285,7 @@ export const DATAS = [
     position: "Member",
     party: "LP",
     constituency: "Aboh Mbaise/Ngor-Okpala Federal Constituency",
-    img: "https://example.com/candidate18.jpg",
+    img: img1,
   },
   {
     id: 27,
@@ -213,7 +293,7 @@ export const DATAS = [
     position: "Member",
     party: "LP",
     constituency: "Okpe/Sapele/Uvwie Federal Constituency",
-    img: "https://example.com/candidate18.jpg",
+    img: img1,
   },
   {
     id: 28,
@@ -221,7 +301,7 @@ export const DATAS = [
     position: "Member",
     party: "LP",
     constituency: "Oshodi/Isolo 2 Federal Constituency",
-    img: "https://example.com/candidate18.jpg",
+    img: img1,
   },
   {
     id: 29,
@@ -229,7 +309,7 @@ export const DATAS = [
     position: "Member",
     party: "NNPP",
     constituency: "Sumaila/Takai FedConstituency",
-    img: "https://example.com/candidate18.jpg",
+    img: img1,
   },
   {
     id: 30,
@@ -237,7 +317,7 @@ export const DATAS = [
     position: "Member",
     party: "PDP",
     constituency: "Goronyo/Gada Federal Constituency",
-    img: "https://example.com/candidate18.jpg",
+    img: img1,
   },
   {
     id: 31,
@@ -245,7 +325,7 @@ export const DATAS = [
     position: "Member",
     party: "PDP",
     constituency: "ADutse, Kiyawa Federal Constituency",
-    img: "https://example.com/candidate18.jpg",
+    img: img1,
   },
   {
     id: 32,
@@ -253,7 +333,7 @@ export const DATAS = [
     position: "Member",
     party: "PDP",
     constituency: "Jamaa/Sanga Federal Constituency",
-    img: "https://example.com/candidate18.jpg",
+    img: img1,
   },
   {
     id: 33,
@@ -261,7 +341,7 @@ export const DATAS = [
     position: "Member",
     party: "PDP",
     constituency: "Igbo Etiti/Uzo Uwani Federal Constituency",
-    img: "https://example.com/candidate18.jpg",
+    img: img1,
   },
   {
     id: 34,
@@ -269,7 +349,7 @@ export const DATAS = [
     position: "Member",
     party: "LP",
     constituency: " Onitsha North/South Federal constituency",
-    img: "https://example.com/candidate18.jpg",
+    img: img1,
   },
   {
     id: 35,
@@ -277,7 +357,7 @@ export const DATAS = [
     position: "Member",
     party: "PDP",
     constituency: "Brass/Nembe Federal Constituency",
-    img: "https://example.com/candidate18.jpg",
+    img: img1,
   },
   {
     id: 36,
@@ -285,7 +365,7 @@ export const DATAS = [
     position: "Member",
     party: "NNPP",
     constituency: "AKano Municipal Federal",
-    img: "https://example.com/candidate18.jpg",
+    img: img1,
   },
   {
     id: 37,
@@ -293,7 +373,7 @@ export const DATAS = [
     position: "Member",
     party: "PDP",
     constituency: "Southern Ijaw Federal Constituency",
-    img: "https://example.com/candidate18.jpg",
+    img: img1,
   },
   {
     id: 38,
@@ -301,7 +381,7 @@ export const DATAS = [
     position: "Member",
     party: "PDP",
     constituency: "Marshi/Dutsi Federal",
-    img: "https://example.com/candidate18.jpg",
+    img: img1,
   },
   {
     id: 39,
@@ -309,7 +389,7 @@ export const DATAS = [
     position: "Member",
     party: "PDP",
     constituency: "Shira/Giade Federal Constituency",
-    img: "https://example.com/candidate18.jpg",
+    img: img1,
   },
   {
     id: 40,
@@ -317,7 +397,7 @@ export const DATAS = [
     position: "Member",
     party: "LP",
     constituency: "Eti Osa Federal Constituency",
-    img: "https://example.com/candidate18.jpg",
+    img: img1,
   },
   {
     id: 41,
@@ -325,7 +405,7 @@ export const DATAS = [
     position: "Member",
     party: "NNPP",
     constituency: "D,Tofa/Tofa/Rimin-Gado Federal Constituency",
-    img: "https://example.com/candidate18.jpg",
+    img: img1,
   },
   {
     id: 42,
@@ -333,7 +413,7 @@ export const DATAS = [
     position: "Member",
     party: "LP",
     constituency: "AOwerri north/West and Municipal Federal Constituency",
-    img: "https://example.com/candidate18.jpg",
+    img: img1,
   },
   {
     id: 43,
@@ -341,7 +421,7 @@ export const DATAS = [
     position: "Member",
     party: "PDP",
     constituency: "Ikot Abasi/Mkpat Enin/Eastern Obolo Federal Constituency",
-    img: "https://example.com/candidate18.jpg",
+    img: img1,
   },
   {
     id: 44,
@@ -349,7 +429,7 @@ export const DATAS = [
     position: "Member",
     party: "LP",
     constituency: " Ezeagu/Udi Federal Constituency",
-    img: "https://example.com/candidate18.jpg",
+    img: img1,
   },
   {
     id: 45,
@@ -357,7 +437,7 @@ export const DATAS = [
     position: "Member",
     party: "LP",
     constituency: "Port Harcourt 1 Federal Constituency",
-    img: "https://example.com/candidate18.jpg",
+    img: img1,
   },
   {
     id: 46,
@@ -365,7 +445,7 @@ export const DATAS = [
     position: "Member",
     party: "NNPP",
     constituency: "Gwaram Federal Constituency",
-    img: "https://example.com/candidate18.jpg",
+    img: img1,
   },
   {
     id: 47,
@@ -373,7 +453,7 @@ export const DATAS = [
     position: "Member",
     party: "PDP",
     constituency: "Gummi/Bukkuyum Federal Constituency",
-    img: "https://example.com/candidate18.jpg",
+    img: img1,
   },
   {
     id: 48,
@@ -381,7 +461,7 @@ export const DATAS = [
     position: "Member",
     party: "LP",
     constituency: "Arochukwu/Ohafia FederalConstituency",
-    img: "https://example.com/candidate18.jpg",
+    img: img1,
   },
   {
     id: 49,
@@ -389,7 +469,7 @@ export const DATAS = [
     position: "Member",
     party: "PDP",
     constituency: "Gombi/Hong FederalConstituency",
-    img: "https://example.com/candidate18.jpg",
+    img: img1,
   },
   {
     id: 50,
@@ -397,7 +477,7 @@ export const DATAS = [
     position: "Member",
     party: "PDP",
     constituency: "Lavun/Mokwa/Edati Federal Constituency",
-    img: "https://example.com/candidate18.jpg",
+    img: img1,
   },
   {
     id: 51,
@@ -405,7 +485,7 @@ export const DATAS = [
     position: "Member",
     party: "PDP",
     constituency: "AGuyuk/Shelleng Federal Constituency",
-    img: "https://example.com/candidate18.jpg",
+    img: img1,
   },
   {
     id: 52,
@@ -413,7 +493,7 @@ export const DATAS = [
     position: "Member",
     party: "LP",
     constituency: "Nsukka/Igbo-Eze South Federal Constituency",
-    img: "https://example.com/candidate18.jpg",
+    img: img1,
   },
   {
     id: 53,
@@ -421,7 +501,7 @@ export const DATAS = [
     position: "Member",
     party: "PDP",
     constituency: "Ardo K/Lau/Karim Lamido Federal Constituency",
-    img: "https://example.com/candidate18.jpg",
+    img: img1,
   },
   {
     id: 54,
@@ -429,7 +509,7 @@ export const DATAS = [
     position: "Member",
     party: "PDP",
     constituency: "Zaki Federal Constituency",
-    img: "https://example.com/candidate18.jpg",
+    img: img1,
   },
   {
     id: 55,
@@ -437,7 +517,7 @@ export const DATAS = [
     position: "Member",
     party: "NNPP",
     constituency: "AGezawa/Gabasawa Federal Constituency",
-    img: "https://example.com/candidate18.jpg",
+    img: img1,
   },
   {
     id: 56,
@@ -445,7 +525,7 @@ export const DATAS = [
     position: "Member",
     party: "LP",
     constituency: "Obingwa/Ugwunagbo/Osisioma Federal Constituency",
-    img: "https://example.com/candidate18.jpg",
+    img: img1,
   },
   {
     id: 57,
@@ -453,7 +533,7 @@ export const DATAS = [
     position: "Member",
     party: "PDP",
     constituency: "Nkanu East/West Federal Constituency",
-    img: "https://example.com/candidate18.jpg",
+    img: img1,
   },
   {
     id: 58,
@@ -461,7 +541,7 @@ export const DATAS = [
     position: "Member",
     party: "PDP",
     constituency: "Eleme/Oyigbo/Tai Federal Constituency",
-    img: "https://example.com/candidate18.jpg",
+    img: img1,
   },
   {
     id: 59,
@@ -469,7 +549,7 @@ export const DATAS = [
     position: "Member",
     party: "PDP",
     constituency: "Kaltungo/Shongon Federal Constituency ",
-    img: "https://example.com/candidate18.jpg",
+    img: img1,
   },
   {
     id: 60,
@@ -477,7 +557,7 @@ export const DATAS = [
     position: "Member",
     party: "LP",
     constituency: "Ikwuano Umuahia north/Umuahai South Federal Constituency",
-    img: "https://example.com/candidate18.jpg",
+    img: img1,
   },
   {
     id: 61,
@@ -485,7 +565,7 @@ export const DATAS = [
     position: "Member",
     party: "PDP",
     constituency: "Ogbia Federal Constituency ",
-    img: "https://example.com/candidate18.jpg",
+    img: img1,
   },
   {
     id: 62,
@@ -493,7 +573,7 @@ export const DATAS = [
     position: "Member",
     party: "PDP",
     constituency: "Eket/Onna/Esit Eket/Ibeno Federal Constituency",
-    img: "https://example.com/candidate18.jpg",
+    img: img1,
   },
   {
     id: 63,
@@ -501,166 +581,134 @@ export const DATAS = [
     position: "Member",
     party: "PDP",
     constituency: "Atakumosa East/West/Ilesa East/West Federal Constituency",
-    img: "https://example.com/candidate18.jpg",
+    img: img1,
   },
   {
-    id: 63,
-    name: "Hon. Omirin Olusanya",
+    id: 64,
+    name: "Hon. Ozuruigbo Ugonna",
     position: "Member",
     party: "PDP",
-    constituency: "Atakumosa East/West/Ilesa East/West Federal Constituency",
-    img: "https://example.com/candidate18.jpg",
+    constituency: "Nkwerre/ Nwangele/ Njaba/ Isu Federal Constituency",
+    img: img1,
   },
   {
-    id: 63,
-    name: "Hon. Omirin Olusanya",
+    id: 65,
+    name: "Hon. Paul A. Ekpo",
     position: "Member",
     party: "PDP",
-    constituency: "Atakumosa East/West/Ilesa East/West Federal Constituency",
-    img: "https://example.com/candidate18.jpg",
+    constituency: "Etinan /Nsit Ibom /Nsit Ubium Federal Constituency",
+    img: img1,
   },
   {
-    id: 63,
-    name: "Hon. Omirin Olusanya",
+    id: 66,
+    name: "Hon. Peter Akpanke",
     position: "Member",
     party: "PDP",
-    constituency: "Atakumosa East/West/Ilesa East/West Federal Constituency",
-    img: "https://example.com/candidate18.jpg",
+    constituency: "Obanliku/Bekwarra/Obudu Federal Constituency",
+    img: img1,
   },
   {
-    id: 63,
-    name: "Hon. Omirin Olusanya",
+    id: 67,
+    name: "Hon. Prof. Lilian Orogbu",
     position: "Member",
-    party: "PDP",
-    constituency: "Atakumosa East/West/Ilesa East/West Federal Constituency",
-    img: "https://example.com/candidate18.jpg",
+    party: "LP",
+    constituency: "Awka North/South Federal Constituency",
+    img: img1,
   },
   {
-    id: 63,
-    name: "Hon. Omirin Olusanya",
+    id: 68,
+    name: "Hon. Prof. Pual Nnamchi",
     position: "Member",
-    party: "PDP",
-    constituency: "Atakumosa East/West/Ilesa East/West Federal Constituency",
-    img: "https://example.com/candidate18.jpg",
+    party: "LP",
+    constituency: "Enugu East/Isi-Uzo Federal Constituency",
+    img: img1,
   },
   {
-    id: 63,
-    name: "Hon. Omirin Olusanya",
+    id: 69,
+    name: "Hon. Sadiq Ango Abdullahi",
     position: "Member",
     party: "PDP",
-    constituency: "Atakumosa East/West/Ilesa East/West Federal Constituency",
-    img: "https://example.com/candidate18.jpg",
+    constituency: "Sabon Gari Federal Constituency",
+    img: img1,
   },
   {
-    id: 63,
-    name: "Hon. Omirin Olusanya",
+    id: 70,
+    name: "Hon. Salisu Garba Koko",
     position: "Member",
-    party: "PDP",
-    constituency: "Atakumosa East/West/Ilesa East/West Federal Constituency",
-    img: "https://example.com/candidate18.jpg",
+    party: "SDP",
+    constituency: "Maiyama/Koko-Besse Federal Constituency",
+    img: img1,
   },
   {
-    id: 63,
-    name: "Hon. Omirin Olusanya",
+    id: 71,
+    name: "Hon. Hassan Shehu Hussain",
     position: "Member",
-    party: "PDP",
-    constituency: "Atakumosa East/West/Ilesa East/West Federal Constituency",
-    img: "https://example.com/candidate18.jpg",
+    party: "NNPP",
+    constituency: "Nasarawa Federal constituency",
+    img: img1,
   },
   {
-    id: 63,
-    name: "Hon. Omirin Olusanya",
+    id: 72,
+    name: "Hon. Idris Salman",
     position: "Member",
-    party: "PDP",
-    constituency: "Atakumosa East/West/Ilesa East/West Federal Constituency",
-    img: "https://example.com/candidate18.jpg",
+    party: "ADC",
+    constituency: "Kabba/Bunu/Ijumu Federal Constituency",
+    img: img1,
   },
   {
-    id: 63,
-    name: "Hon. Omirin Olusanya",
+    id: 73,
+    name: "Hon. Jafaru Yakubu",
     position: "Member",
     party: "PDP",
-    constituency: "Atakumosa East/West/Ilesa East/West Federal Constituency",
-    img: "https://example.com/candidate18.jpg",
+    constituency: "Bali/Gassol Federal Constituency",
+    img: img1,
   },
   {
-    id: 63,
-    name: "Hon. Omirin Olusanya",
+    id: 74,
+    name: "Hon. Nnamdi Ezechi",
     position: "Member",
     party: "PDP",
-    constituency: "Atakumosa East/West/Ilesa East/West Federal Constituency",
-    img: "https://example.com/candidate18.jpg",
+    constituency: "Ndokwa/Ukwuani Federal Constituency",
+    img: img1,
   },
   {
-    id: 63,
-    name: "Hon. Omirin Olusanya",
+    id: 75,
+    name: "Hon. Ime Bassey Okon",
     position: "Member",
     party: "PDP",
-    constituency: "Atakumosa East/West/Ilesa East/West Federal Constituency",
-    img: "https://example.com/candidate18.jpg",
+    constituency: "Itu/Ibiono Ibom Federal Constituency",
+    img: img1,
   },
   {
-    id: 63,
-    name: "Hon. Omirin Olusanya",
+    id: 76,
+    name: "Hon. Mansur Manu Soro",
     position: "Member",
     party: "PDP",
-    constituency: "Atakumosa East/West/Ilesa East/West Federal Constituency",
-    img: "https://example.com/candidate18.jpg",
+    constituency: "Darazo/Ganjowa Federal Constituency",
+    img: img1,
   },
   {
-    id: 63,
-    name: "Hon. Omirin Olusanya",
+    id: 77,
+    name: "Hon. Umar Yusuf Yabo",
     position: "Member",
     party: "PDP",
-    constituency: "Atakumosa East/West/Ilesa East/West Federal Constituency",
-    img: "https://example.com/candidate18.jpg",
+    constituency: "Yabo/Shagari Federal Constituency",
+    img: img1,
   },
   {
-    id: 63,
-    name: "Hon. Omirin Olusanya",
+    id: 78,
+    name: "Hon. Oluwaseyi Sowunmi",
     position: "Member",
-    party: "PDP",
-    constituency: "Atakumosa East/West/Ilesa East/West Federal Constituency",
-    img: "https://example.com/candidate18.jpg",
+    party: "LP",
+    constituency: "Ojo Federal Constituency",
+    img: img1,
   },
   {
-    id: 63,
-    name: "Hon. Omirin Olusanya",
+    id: 79,
+    name: "Hon. Awaji-Inombek Abiante",
     position: "Member",
     party: "PDP",
-    constituency: "Atakumosa East/West/Ilesa East/West Federal Constituency",
-    img: "https://example.com/candidate18.jpg",
-  },
-  {
-    id: 63,
-    name: "Hon. Omirin Olusanya",
-    position: "Member",
-    party: "PDP",
-    constituency: "Atakumosa East/West/Ilesa East/West Federal Constituency",
-    img: "https://example.com/candidate18.jpg",
-  },
-  {
-    id: 63,
-    name: "Hon. Omirin Olusanya",
-    position: "Member",
-    party: "PDP",
-    constituency: "Atakumosa East/West/Ilesa East/West Federal Constituency",
-    img: "https://example.com/candidate18.jpg",
-  },
-  {
-    id: 63,
-    name: "Hon. Omirin Olusanya",
-    position: "Member",
-    party: "PDP",
-    constituency: "Atakumosa East/West/Ilesa East/West Federal Constituency",
-    img: "https://example.com/candidate18.jpg",
-  },
-  {
-    id: 63,
-    name: "Hon. Omirin Olusanya",
-    position: "Member",
-    party: "PDP",
-    constituency: "Atakumosa East/West/Ilesa East/West Federal Constituency",
-    img: "https://example.com/candidate18.jpg",
+    constituency: "Andoni/Opobo Nkoro Federal Constituency",
+    img: img1,
   },
 ];

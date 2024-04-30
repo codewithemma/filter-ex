@@ -36,9 +36,9 @@ function App() {
     setCurrentPage(currentPage - 1);
   };
 
-  function handleNextPage() {
+  const handleNextPage = () => {
     setCurrentPage(currentPage + 1);
-  }
+  };
   return (
     <div className="App">
       {buttons &&

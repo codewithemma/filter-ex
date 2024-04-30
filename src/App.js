@@ -9,8 +9,16 @@ function App() {
   const [currentPage, setCurrentPage] = useState(1);
   const lastIndex = currentPage * ItemsPerPage;
   const firstIndex = lastIndex - ItemsPerPage;
-  const currentData = filteredData.slice(firstIndex, lastIndex);
-
+  const currentData = filteredData
+    ? filteredData.slice(firstIndex, lastIndex).filter((party) => {
+        return (
+          party.name.toLowerCase().includes(query.toLowerCase()) ||
+          party.position.toLowerCase().includes(query.toLowerCase()) ||
+          party.party.toLowerCase().includes(query.toLowerCase()) ||
+          party.constituency.toLowerCase().includes(query.toLowerCase())
+        );
+      })
+    : [];
   const handleData = (event) => {
     let typeData = event.target.value;
     typeData !== "all"
@@ -45,8 +53,8 @@ function App() {
         <input type="text" placeholder="search" onChange={handleChange} />
       </div>
       <div className="card-container">
-        {filteredData &&
-          filteredData
+        {currentData &&
+          currentData
             .filter((party) => {
               return (
                 party.name.toLowerCase().includes(query.toLowerCase()) ||

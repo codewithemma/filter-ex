@@ -10,12 +10,12 @@ function App() {
   const lastIndex = currentPage * ItemsPerPage;
   const firstIndex = lastIndex - ItemsPerPage;
   const currentData = filteredData
-    ? filteredData.slice(firstIndex, lastIndex).filter((party) => {
+    ? filteredData.slice(firstIndex, lastIndex).filter((user) => {
         return (
-          party.name.toLowerCase().includes(query.toLowerCase()) ||
-          party.position.toLowerCase().includes(query.toLowerCase()) ||
-          party.party.toLowerCase().includes(query.toLowerCase()) ||
-          party.constituency.toLowerCase().includes(query.toLowerCase())
+          user.name.toLowerCase().includes(query.toLowerCase()) ||
+          user.position.toLowerCase().includes(query.toLowerCase()) ||
+          user.party.toLowerCase().includes(query.toLowerCase()) ||
+          user.constituency.toLowerCase().includes(query.toLowerCase())
         );
       })
     : [];
@@ -55,12 +55,12 @@ function App() {
       <div className="card-container">
         {currentData &&
           currentData
-            .filter((party) => {
+            .filter((user) => {
               return (
-                party.name.toLowerCase().includes(query.toLowerCase()) ||
-                party.position.toLowerCase().includes(query.toLowerCase()) ||
-                party.party.toLowerCase().includes(query.toLowerCase()) ||
-                party.constituency.toLowerCase().includes(query.toLowerCase())
+                user.name.toLowerCase().includes(query.toLowerCase()) ||
+                user.position.toLowerCase().includes(query.toLowerCase()) ||
+                user.party.toLowerCase().includes(query.toLowerCase()) ||
+                user.constituency.toLowerCase().includes(query.toLowerCase())
               );
             })
             ?.map((data) => {

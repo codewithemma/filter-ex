@@ -42,7 +42,7 @@ export const DATAS = [
   {
     id: 6,
     name: "Hon. Gaza J. Gbefwi",
-    position: "Position 5",
+    position: "Member",
     party: "SDP",
     constituency: "Karu/Keffi/Kokona Federal Constituency",
     img: "/houseofreps/CM_0035_Hon.-Gaza-J.-Gbefwi.-Karu-Keffi-Kokona-fed.-Const.-Party-SDPChairman-Solid-Minerals.jpg",

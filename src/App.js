@@ -1,6 +1,6 @@
 import "./App.css";
 import { buttons } from "./ButtonData";
-import { useEffect, useState } from "react";
+import { useState } from "react";
 import { getData, filterData } from "./Services";
 const ItemsPerPage = 10;
 function App() {
@@ -19,6 +19,7 @@ function App() {
         );
       })
     : [];
+
   const handleData = (event) => {
     let typeData = event.target.value;
     typeData !== "all"
@@ -26,9 +27,6 @@ function App() {
       : setFilteredData(getData());
   };
 
-  useEffect(() => {
-    setFilteredData(getData());
-  }, []);
   const handleChange = (event) => {
     setQuery(event.target.value);
   };
@@ -45,7 +43,11 @@ function App() {
         {buttons &&
           buttons.map((item) => (
             <div key={item.id}>
-              <button value={item.value} onClick={handleData}>
+              <button
+                style={{ cursor: "pointer" }}
+                value={item.value}
+                onClick={handleData}
+              >
                 {item.name}
               </button>
             </div>

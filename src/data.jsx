@@ -1,83 +1,3 @@
-import img1 from "./houseofreps/Hon.-Kingsley-Ogundu-Chinda.png";
-// import img1 from "./houseofreps/Hon.-Kingsley-Ogundu-Chinda.png";
-// import img1 from "./houseofreps/Hon.-Kingsley-Ogundu-Chinda.png";
-// import img1 from "./houseofreps/Hon.-Kingsley-Ogundu-Chinda.png";
-// import img1 from "./houseofreps/Hon.-Kingsley-Ogundu-Chinda.png";
-// import img1 from "./houseofreps/Hon.-Kingsley-Ogundu-Chinda.png";
-// import img1 from "./houseofreps/Hon.-Kingsley-Ogundu-Chinda.png";
-// import img1 from "./houseofreps/Hon.-Kingsley-Ogundu-Chinda.png";
-// import img1 from "./houseofreps/Hon.-Kingsley-Ogundu-Chinda.png";
-// import img1 from "./houseofreps/Hon.-Kingsley-Ogundu-Chinda.png";
-// import img1 from "./houseofreps/Hon.-Kingsley-Ogundu-Chinda.png";
-// import img1 from "./houseofreps/Hon.-Kingsley-Ogundu-Chinda.png";
-// import img1 from "./houseofreps/Hon.-Kingsley-Ogundu-Chinda.png";
-// import img1 from "./houseofreps/Hon.-Kingsley-Ogundu-Chinda.png";
-// import img1 from "./houseofreps/Hon.-Kingsley-Ogundu-Chinda.png";
-// import img1 from "./houseofreps/Hon.-Kingsley-Ogundu-Chinda.png";
-// import img1 from "./houseofreps/Hon.-Kingsley-Ogundu-Chinda.png";
-// import img1 from "./houseofreps/Hon.-Kingsley-Ogundu-Chinda.png";
-// import img1 from "./houseofreps/Hon.-Kingsley-Ogundu-Chinda.png";
-// import img1 from "./houseofreps/Hon.-Kingsley-Ogundu-Chinda.png";
-// import img1 from "./houseofreps/Hon.-Kingsley-Ogundu-Chinda.png";
-// import img1 from "./houseofreps/Hon.-Kingsley-Ogundu-Chinda.png";
-// import img1 from "./houseofreps/Hon.-Kingsley-Ogundu-Chinda.png";
-// import img1 from "./houseofreps/Hon.-Kingsley-Ogundu-Chinda.png";
-// import img1 from "./houseofreps/Hon.-Kingsley-Ogundu-Chinda.png";
-// import img1 from "./houseofreps/Hon.-Kingsley-Ogundu-Chinda.png";
-// import img1 from "./houseofreps/Hon.-Kingsley-Ogundu-Chinda.png";
-// import img1 from "./houseofreps/Hon.-Kingsley-Ogundu-Chinda.png";
-// import img1 from "./houseofreps/Hon.-Kingsley-Ogundu-Chinda.png";
-// import img1 from "./houseofreps/Hon.-Kingsley-Ogundu-Chinda.png";
-// import img1 from "./houseofreps/Hon.-Kingsley-Ogundu-Chinda.png";
-// import img1 from "./houseofreps/Hon.-Kingsley-Ogundu-Chinda.png";
-// import img1 from "./houseofreps/Hon.-Kingsley-Ogundu-Chinda.png";
-// import img1 from "./houseofreps/Hon.-Kingsley-Ogundu-Chinda.png";
-// import img1 from "./houseofreps/Hon.-Kingsley-Ogundu-Chinda.png";
-// import img1 from "./houseofreps/Hon.-Kingsley-Ogundu-Chinda.png";
-// import img1 from "./houseofreps/Hon.-Kingsley-Ogundu-Chinda.png";
-// import img1 from "./houseofreps/Hon.-Kingsley-Ogundu-Chinda.png";
-// import img1 from "./houseofreps/Hon.-Kingsley-Ogundu-Chinda.png";
-// import img1 from "./houseofreps/Hon.-Kingsley-Ogundu-Chinda.png";
-// import img1 from "./houseofreps/Hon.-Kingsley-Ogundu-Chinda.png";
-// import img1 from "./houseofreps/Hon.-Kingsley-Ogundu-Chinda.png";
-// import img1 from "./houseofreps/Hon.-Kingsley-Ogundu-Chinda.png";
-// import img1 from "./houseofreps/Hon.-Kingsley-Ogundu-Chinda.png";
-// import img1 from "./houseofreps/Hon.-Kingsley-Ogundu-Chinda.png";
-// import img1 from "./houseofreps/Hon.-Kingsley-Ogundu-Chinda.png";
-// import img1 from "./houseofreps/Hon.-Kingsley-Ogundu-Chinda.png";
-// import img1 from "./houseofreps/Hon.-Kingsley-Ogundu-Chinda.png";
-// import img1 from "./houseofreps/Hon.-Kingsley-Ogundu-Chinda.png";
-// import img1 from "./houseofreps/Hon.-Kingsley-Ogundu-Chinda.png";
-// import img1 from "./houseofreps/Hon.-Kingsley-Ogundu-Chinda.png";
-// import img1 from "./houseofreps/Hon.-Kingsley-Ogundu-Chinda.png";
-// import img1 from "./houseofreps/Hon.-Kingsley-Ogundu-Chinda.png";
-// import img1 from "./houseofreps/Hon.-Kingsley-Ogundu-Chinda.png";
-// import img1 from "./houseofreps/Hon.-Kingsley-Ogundu-Chinda.png";
-// import img1 from "./houseofreps/Hon.-Kingsley-Ogundu-Chinda.png";
-// import img1 from "./houseofreps/Hon.-Kingsley-Ogundu-Chinda.png";
-// import img1 from "./houseofreps/Hon.-Kingsley-Ogundu-Chinda.png";
-// import img1 from "./houseofreps/Hon.-Kingsley-Ogundu-Chinda.png";
-// import img1 from "./houseofreps/Hon.-Kingsley-Ogundu-Chinda.png";
-// import img1 from "./houseofreps/Hon.-Kingsley-Ogundu-Chinda.png";
-// import img1 from "./houseofreps/Hon.-Kingsley-Ogundu-Chinda.png";
-// import img1 from "./houseofreps/Hon.-Kingsley-Ogundu-Chinda.png";
-// import img1 from "./houseofreps/Hon.-Kingsley-Ogundu-Chinda.png";
-// import img1 from "./houseofreps/Hon.-Kingsley-Ogundu-Chinda.png";
-// import img1 from "./houseofreps/Hon.-Kingsley-Ogundu-Chinda.png";
-// import img1 from "./houseofreps/Hon.-Kingsley-Ogundu-Chinda.png";
-// import img1 from "./houseofreps/Hon.-Kingsley-Ogundu-Chinda.png";
-// import img1 from "./houseofreps/Hon.-Kingsley-Ogundu-Chinda.png";
-// import img1 from "./houseofreps/Hon.-Kingsley-Ogundu-Chinda.png";
-// import img1 from "./houseofreps/Hon.-Kingsley-Ogundu-Chinda.png";
-// import img1 from "./houseofreps/Hon.-Kingsley-Ogundu-Chinda.png";
-// import img1 from "./houseofreps/Hon.-Kingsley-Ogundu-Chinda.png";
-// import img1 from "./houseofreps/Hon.-Kingsley-Ogundu-Chinda.png";
-// import img1 from "./houseofreps/Hon.-Kingsley-Ogundu-Chinda.png";
-// import img1 from "./houseofreps/Hon.-Kingsley-Ogundu-Chinda.png";
-// import img1 from "./houseofreps/Hon.-Kingsley-Ogundu-Chinda.png";
-// import img1 from "./houseofreps/Hon.-Kingsley-Ogundu-Chinda.png";
-// import img1 from "./houseofreps/Hon.-Kingsley-Ogundu-Chinda.png";
-
 export const DATAS = [
   {
     id: 1,
@@ -85,7 +5,7 @@ export const DATAS = [
     position: "Minority Leader",
     party: "PDP",
     constituency: "Obio/Akpor Federal Constituency",
-    img: img1,
+    img: "/houseofreps/Hon.-Kingsley-Ogundu-Chinda.png",
   },
   {
     id: 2,
@@ -93,7 +13,7 @@ export const DATAS = [
     position: "Minority Whip",
     party: "PDP",
     constituency: "Balanga/Billiri Federal Constituency  ",
-    img: img1,
+    img: "/houseofreps/Hon.-Ali-Isah.png",
   },
   {
     id: 3,
@@ -101,7 +21,7 @@ export const DATAS = [
     position: "Deputy Minority Leader",
     party: "NNPP",
     constituency: "Dala Federal Constituency",
-    img: img1,
+    img: "/houseofreps/CM_0007_Hon.-Dahiru-Madaki.-Dutse-Kiyawa-Fed.-const.-Party-PDP.-Committees-Finance-Tetfund.jpg",
   },
   {
     id: 4,
@@ -109,7 +29,7 @@ export const DATAS = [
     position: "Member",
     party: "LP",
     constituency: "Njikoka/Dunukofia/Anaocha Federal Constituency",
-    img: img1,
+    img: "/houseofreps/Rt.-Hon.-George-Ibezim-Ozodinobi.-Njikoka-Dunukofia-Anaocha-Fed.-Const.-Party-LP.-Deputy-Minority-Whip2-370x410.jpg",
   },
   {
     id: 5,
@@ -117,7 +37,7 @@ export const DATAS = [
     position: "Member",
     party: "PDP",
     constituency: "Sagbama Ekeremor Federal Constituency",
-    img: img1,
+    img: "/houseofreps/CM_0036_Hon.-Fred-Yetiemone-Agbedi.-Sagbama-Ekeremor-Fed.Const_.-Party-PDP.Chair-FCT-Area-council-and-Ancilliary-Matte.jpg",
   },
   {
     id: 6,
@@ -125,7 +45,7 @@ export const DATAS = [
     position: "Position 5",
     party: "SDP",
     constituency: "Karu/Keffi/Kokona Federal Constituency",
-    img: img1,
+    img: "/houseofreps/CM_0035_Hon.-Gaza-J.-Gbefwi.-Karu-Keffi-Kokona-fed.-Const.-Party-SDPChairman-Solid-Minerals.jpg",
   },
   {
     id: 7,
@@ -133,7 +53,7 @@ export const DATAS = [
     position: "Member",
     party: "NNPP",
     constituency: "Gwale/Kano Federal Constituency",
-    img: img1,
+    img: "/houseofreps/CM_0034_Hon.-Garba-Ibrahim-Muhammad.-Gwale-Kano-Fed.-Const.-Party-NNPP.-Chair-Nass-Internal-Security.jpg",
   },
   {
     id: 8,
@@ -141,7 +61,7 @@ export const DATAS = [
     position: "Member",
     party: "LP",
     constituency: "Barkin-Ladi/Riyom Federal Constituency",
-    img: img1,
+    img: "/houseofreps/CM_0033_Hon.-Fom-Dalyop-Chollom.-Barkin-Ladi-Riyom-Fed.-Const.-Party-Labour-Party.jpg",
   },
   {
     id: 9,
@@ -149,7 +69,7 @@ export const DATAS = [
     position: "Member",
     party: "PDP",
     constituency: "Ogoja/Yala Federal Constituency ",
-    img: img1,
+    img: "/houseofreps/CM_0032_Hon.-Godwin-Offiono.-Ogoja-Yala-Fed.-Const.Party-PDP.-Committee-Basic-Ed.Rural-Dev.Population-Constitutio.jpg",
   },
   {
     id: 10,
@@ -157,7 +77,7 @@ export const DATAS = [
     position: "Member",
     party: "LP",
     constituency: "Jos South/Jos East Federal",
-    img: img1,
+    img: "/houseofreps/CM_0030_Ajang-Alfred-Iliya.-Jos-South-Jos-East-Fed.-Const.-Party-Labour-Party.jpg",
   },
   {
     id: 11,
@@ -165,7 +85,7 @@ export const DATAS = [
     position: "Member",
     party: "PDP",
     constituency: "Ibadan North east/South East Federal Constituency",
-    img: img1,
+    img: "/houseofreps/CM_0028_Hon.-Abass-A.-Adigun.-Ibadan-North-east-South-East-fed.-const.-Party-PDP.-Chair-Narcotic-Drugs.jpg",
   },
   {
     id: 12,
@@ -173,7 +93,7 @@ export const DATAS = [
     position: "Member",
     party: "PDP",
     constituency: "Dukku/Nafada Federal Constituency ",
-    img: img1,
+    img: "/houseofreps/CM_0027_Hon.-Abdullahi-El-Rashed-Dukku-Nafada-Fed.Const_.-Party-PDP.-Committees-FinanceEcological-FundNEDC-Defenc.jpg",
   },
   {
     id: 13,
@@ -181,7 +101,7 @@ export const DATAS = [
     position: "Member",
     party: "NNPP",
     constituency: "Karaye/Rogo Federal Constituency ",
-    img: img1,
+    img: "/houseofreps/CM_0026_Hon.-Abdullahi-Sani-Rogo.-Karaye-Rogo-Fed.Const_.-Party-NNPP.-Committee-Appropriation.jpg",
   },
   {
     id: 14,
@@ -189,7 +109,7 @@ export const DATAS = [
     position: "Member",
     party: "PDP",
     constituency: "Adavi/Okehi Federal Constituency",
-    img: img1,
+    img: "/houseofreps/CM_0025_Hon.-Abdulmaleek-A.-Danda.-Adavi-Okehi-Fed.Const_.-Party-PDP.-Dep.-Chair-Indonesia-friendship.jpg",
   },
   {
     id: 15,
@@ -197,7 +117,7 @@ export const DATAS = [
     position: "Member",
     party: "PDP",
     constituency: "Chanchaga Federal Constituency",
-    img: img1,
+    img: "/houseofreps/CM_0024_Hon.-Abubakar-Abdul-Buba.-Chanchaga-Fed.-Const.-Party-PDP.-Committees-Maritime-Safety-Police-Affairs-Agric-.jpg",
   },
   {
     id: 16,
@@ -205,7 +125,7 @@ export const DATAS = [
     position: "Member",
     party: "PDP",
     constituency: "Suleja/Gurara Federal Constituency",
-    img: img1,
+    img: "/houseofreps/CM_0023_Hon.-Adamu-Tanko.-Suleja-Gurara-Fed.-Const.Chairman-Diaspora.jpg",
   },
   {
     id: 17,
@@ -213,7 +133,7 @@ export const DATAS = [
     position: "Member",
     party: "PDP",
     constituency: "Irepodun, Orolu, Olorunda, Osogbo Federal Constituency",
-    img: img1,
+    img: "/houseofreps/CM_0022_Hon.-Adewale-M.-Adebanjo.-Irepodun-Orolu-Olorunda-Osogbo-fed.-Const.-Party-PDP.-Dep.-Chair-Constituency-Out.jpg",
   },
   {
     id: 18,
@@ -221,7 +141,7 @@ export const DATAS = [
     position: "Member",
     party: "LP",
     constituency: "Calabar Municipal/Odukpani Federal Constituency",
-    img: img1,
+    img: "/houseofreps/CM_0021_Hon.-Akiba-Bassey-Ekpenyong.-Calabar-Municipal-Odukpani-Fed.-Const.-Party-LP.jpg",
   },
   {
     id: 19,
@@ -229,7 +149,7 @@ export const DATAS = [
     position: "Member",
     party: "PDP",
     constituency: "Idanre/Ifedore Federal Constituency",
-    img: img1,
+    img: "/houseofreps/CM_0020_Hon.-Akingbaso-Olarenwaju.-Idanre-Ifedore-Fed.-const.Party-PDP.jpg",
   },
   {
     id: 20,
@@ -237,7 +157,7 @@ export const DATAS = [
     position: "Member",
     party: "PDP",
     constituency: "Bauchi Federal Constituency ",
-    img: img1,
+    img: "/houseofreps/CM_0019_Hon.-Aliyu-Aminu-Garu.-Bauchi-Fed.-Const.-Party-PDP.-Committee-Finance.jpg",
   },
   {
     id: 21,
@@ -245,7 +165,7 @@ export const DATAS = [
     position: "Member",
     party: "PDP",
     constituency: "Misau/Dambam Federal Constituency",
-    img: img1,
+    img: "/houseofreps/CM_0018_Hon.-Aliyu-Bappa-Misau.-Misau-Dambam-Fed.-const.Party-PDP.-Deputy-Chair-Tetfund.jpg",
   },
   {
     id: 22,
@@ -253,7 +173,7 @@ export const DATAS = [
     position: "Member",
     party: "PDP",
     constituency: "Ikara/Kursau Federal Constituency ",
-    img: img1,
+    img: "/houseofreps/CM_0017_Hon.-Aliyu-Mustapha-Abdullahi.-Ikara-Kursau-fed.-Const.-Party-PDP.-Dep.Chair-Petroleum-Downstream.jpg",
   },
   {
     id: 23,
@@ -261,7 +181,7 @@ export const DATAS = [
     position: "Member",
     party: "LP",
     constituency: "Isiukwuato/Umunneochi Federal Constituency",
-    img: img1,
+    img: "/houseofreps/CM_0016_Hon.-Amobi-Ogar.-Isiukwuato-Umunneochi-Fed.-Const.Labour-Party.-Chairman-House-Committee-on-ATM.jpg",
   },
   {
     id: 24,
@@ -269,7 +189,7 @@ export const DATAS = [
     position: "Member",
     party: "PDP",
     constituency: "Jaba/Zangon Kataf Federal Constituency",
-    img: img1,
+    img: "/houseofreps/CM_0015_Hon.-Amos-Gwamna-Magaji.-Jaba-Zangon-Kataf-Fed.Const_.-Party-PDP.jpg",
   },
   {
     id: 25,
@@ -277,7 +197,7 @@ export const DATAS = [
     position: "Member",
     party: "LP",
     constituency: "Anambra East/West Federal Constituency",
-    img: img1,
+    img: "/houseofreps/CM_0014_Hon.-Aniekwe-Peter-Udogalanya.-Anambra-EastWest-Fed.Const_.-Party-Labour-Party.-Chair-Nigeria-Denmark-Relati.jpg",
   },
   {
     id: 26,
@@ -285,7 +205,7 @@ export const DATAS = [
     position: "Member",
     party: "LP",
     constituency: "Aboh Mbaise/Ngor-Okpala Federal Constituency",
-    img: img1,
+    img: "/houseofreps/CM_0013_Hon.-Attorney.-Mathew-Nwogu.-Aboh-Mbaise-Ngor-Okpala-Fed.-const.-Party-Labour-Party.-Dep.-Chair-Nigeria-Bulg.jpg",
   },
   {
     id: 27,
@@ -293,7 +213,7 @@ export const DATAS = [
     position: "Member",
     party: "LP",
     constituency: "Okpe/Sapele/Uvwie Federal Constituency",
-    img: img1,
+    img: "/houseofreps/CM_0011_Hon.-Barr-Benedict-Etanabene.-Okpe-Sapele-Uvwie-Fed.-Const.-Party-Labour-Party.-Dep.-Chair-Lake-Chad.jpg",
   },
   {
     id: 28,
@@ -301,7 +221,7 @@ export const DATAS = [
     position: "Member",
     party: "LP",
     constituency: "Oshodi/Isolo 2 Federal Constituency",
-    img: img1,
+    img: "/houseofreps/CM_0010_Hon.-Barr.-Okey-Joe-Onuakalusi.-Oshodi-Isolo-2-Fed.-Const.Party-Labour-Party.-Committee-Foreign-Affairs-Pow.jpg",
   },
   {
     id: 29,
@@ -309,7 +229,7 @@ export const DATAS = [
     position: "Member",
     party: "NNPP",
     constituency: "Sumaila/Takai FedConstituency",
-    img: img1,
+    img: "/houseofreps/CM_0009_Hon.-Barr.-Rabiu-Yusuf.-Sumaila-Takai-Fed.-Const.-Party-NNPP.-Chair-Treaty-Protocol-and-Agreement.jpg",
   },
   {
     id: 30,
@@ -317,7 +237,7 @@ export const DATAS = [
     position: "Member",
     party: "PDP",
     constituency: "Goronyo/Gada Federal Constituency",
-    img: img1,
+    img: "/houseofreps/CM_0008_Hon.-Bashiru-Usman-Gorau.-Goronyo-Gada-Fed.-Const.-Party-PDP.-Deputy-Chair-Emergency-and-Disaster-Preparedne.jpg",
   },
   {
     id: 31,
@@ -325,7 +245,7 @@ export const DATAS = [
     position: "Member",
     party: "PDP",
     constituency: "ADutse, Kiyawa Federal Constituency",
-    img: img1,
+    img: "/houseofreps/CM_0007_Hon.-Dahiru-Madaki.-Dutse-Kiyawa-Fed.-const.-Party-PDP.-Committees-Finance-Tetfund.jpg",
   },
   {
     id: 32,
@@ -333,7 +253,7 @@ export const DATAS = [
     position: "Member",
     party: "PDP",
     constituency: "Jamaa/Sanga Federal Constituency",
-    img: img1,
+    img: "/houseofreps/CM_0006_Hon.-Daniel-Amos.-Jamaa-Sanga-Fed.-Const.-Party-PDP.-Chair-House-services.jpg",
   },
   {
     id: 33,
@@ -341,7 +261,7 @@ export const DATAS = [
     position: "Member",
     party: "PDP",
     constituency: "Igbo Etiti/Uzo Uwani Federal Constituency",
-    img: img1,
+    img: "/houseofreps/CM_0005_Hon.-Dr.-Martins-Oke.-Igbo-Etiti-Uzo-Uwani-Federal-Const.-Party-PDP.jpg",
   },
   {
     id: 34,
@@ -349,7 +269,7 @@ export const DATAS = [
     position: "Member",
     party: "LP",
     constituency: " Onitsha North/South Federal constituency",
-    img: img1,
+    img: "/houseofreps/CM_0004_Hon.-Emeka-Idu-Godwin-Obiajulu.-Onitsha-North-South-Federal-const.-Party-Labour-Party.jpg",
   },
   {
     id: 35,
@@ -357,7 +277,7 @@ export const DATAS = [
     position: "Member",
     party: "PDP",
     constituency: "Brass/Nembe Federal Constituency",
-    img: img1,
+    img: "/houseofreps/CM_0003_Hon.-Enenimiete-Ebikake.-BrassNembe-Fed.Const_.Committee-Membership-Finance-DefenceNimasa.-Party-PDP.jpg",
   },
   {
     id: 36,
@@ -365,7 +285,7 @@ export const DATAS = [
     position: "Member",
     party: "NNPP",
     constituency: "AKano Municipal Federal",
-    img: img1,
+    img: "/houseofreps/CM_0002_Hon.-Engr-Sagir-Ibrahim-Koki.-Kano-Municipal-Fed.Const_.-Party-NNPP.Deputy-Chair-Midstream-Petroleum-Resources.jpg",
   },
   {
     id: 37,
@@ -373,7 +293,7 @@ export const DATAS = [
     position: "Member",
     party: "PDP",
     constituency: "Southern Ijaw Federal Constituency",
-    img: img1,
+    img: "/houseofreps/CM_0000_Hon.-Engr.-Rodney-E.-Ambaiowei.-Southern-Ijaw-Fed.-Const.-Party-PDP.jpg",
   },
   {
     id: 38,
@@ -381,7 +301,7 @@ export const DATAS = [
     position: "Member",
     party: "PDP",
     constituency: "Marshi/Dutsi Federal",
-    img: img1,
+    img: "/houseofreps/Untitled-1_0040_Hon.-Salisu-Majigiri.-Marshi-Dutsi-Fed.-Const.-Party-PDP.-Dep.-Chair-Information-NOA-370x410.jpg",
   },
   {
     id: 39,
@@ -389,7 +309,7 @@ export const DATAS = [
     position: "Member",
     party: "PDP",
     constituency: "Shira/Giade Federal Constituency",
-    img: img1,
+    img: "/houseofreps/Untitled-1_0039_Hon.-Sani-Ibrahim-Tanko.-Shira-Giade-Fed.-Const.-Party-PDP.-Committee-Public-Procurement.jpg",
   },
   {
     id: 40,
@@ -397,7 +317,7 @@ export const DATAS = [
     position: "Member",
     party: "LP",
     constituency: "Eti Osa Federal Constituency",
-    img: img1,
+    img: "/houseofreps/Untitled-1_0037_Hon.-Thaddeaus-Attah.-Eti-Osa-Fed.-Const.-Party-Labour-Party-370x410.jpg",
   },
   {
     id: 41,
@@ -405,7 +325,7 @@ export const DATAS = [
     position: "Member",
     party: "NNPP",
     constituency: "D,Tofa/Tofa/Rimin-Gado Federal Constituency",
-    img: img1,
+    img: "/houseofreps/Untitled-1_0036_Hon.-Tijjani-Abdulkadir-Jobe.-DTofa-Tofa-Rimin-Gado-Fed.-Const.-Party-NNPP.-Chair-Poverty-Alleviat-370x410.jpg",
   },
   {
     id: 42,
@@ -413,7 +333,7 @@ export const DATAS = [
     position: "Member",
     party: "LP",
     constituency: "AOwerri north/West and Municipal Federal Constituency",
-    img: img1,
+    img: "/houseofreps/Untitled-1_0035_Hon.-Tochukwu-Okere.-Owerri-north-West-and-Municipal-Fed.-Const.-Party-Labour-Party.-Dep.Chair-Chris-370x410.jpg",
   },
   {
     id: 43,
@@ -421,7 +341,7 @@ export const DATAS = [
     position: "Member",
     party: "PDP",
     constituency: "Ikot Abasi/Mkpat Enin/Eastern Obolo Federal Constituency",
-    img: img1,
+    img: "/houseofreps/Untitled-1_0034_Hon.-Uduak-Alphonsus-Ududoh.-Ikot-Abasi-Mkpat-Enin-Eastern-Obolo-Fed.-Const.-Party-PDP.-Deputy-Chair.jpg",
   },
   {
     id: 44,
@@ -429,7 +349,7 @@ export const DATAS = [
     position: "Member",
     party: "LP",
     constituency: " Ezeagu/Udi Federal Constituency",
-    img: img1,
+    img: "/houseofreps/Untitled-1_0032_Hon.-Umeha-S.-Cyriacus.-Ezeagu-Udi-Fed.-Const.-Party-Labour-Party.-Dep.-Chair-Justice-370x410.jpg",
   },
   {
     id: 45,
@@ -437,7 +357,7 @@ export const DATAS = [
     position: "Member",
     party: "LP",
     constituency: "Port Harcourt 1 Federal Constituency",
-    img: img1,
+    img: "/houseofreps/Untitled-1_0031_Hon.-Umezuruike-Manuchim.-Port-Harcourt-1-Fed.const_.-Party-Labour-Party-370x410.jpg",
   },
   {
     id: 46,
@@ -445,7 +365,7 @@ export const DATAS = [
     position: "Member",
     party: "NNPP",
     constituency: "Gwaram Federal Constituency",
-    img: img1,
+    img: "/houseofreps/Untitled-1_0030_Hon.-Yusuf-Shittu-Galambi.-Gwaram-Fed.-Const.-Party-NNPP.-Chair-Nass-Library-Research-and-Documentati.jpg",
   },
   {
     id: 47,
@@ -453,7 +373,7 @@ export const DATAS = [
     position: "Member",
     party: "PDP",
     constituency: "Gummi/Bukkuyum Federal Constituency",
-    img: img1,
+    img: "/houseofreps/Untitled-1_0029_Hon.Dr-Sulaiman-Abubakar-Gumi-FNSE.-Gummi-Bukkuyum-Fed.Const_.-Party-PDP.-Chair-National-Emergency-.jpg",
   },
   {
     id: 48,
@@ -461,7 +381,7 @@ export const DATAS = [
     position: "Member",
     party: "LP",
     constituency: "Arochukwu/Ohafia FederalConstituency",
-    img: img1,
+    img: "/houseofreps/Untitled-1_0027_Hon.-Ibe-Okwara-Osonwa.-Arochukwu-Ohafia-Fed.-Const.-Party-Labour-Party.-Dep.-Chair-FCT-Judiciary.jpg",
   },
   {
     id: 49,
@@ -469,7 +389,7 @@ export const DATAS = [
     position: "Member",
     party: "PDP",
     constituency: "Gombi/Hong FederalConstituency",
-    img: img1,
+    img: "/houseofreps/Untitled-1_0025_Hon.-James-Shuaibu-Barka.-Gombi-Hong-Federal-Const.Party-PDP-370x410.jpg",
   },
   {
     id: 50,
@@ -477,7 +397,7 @@ export const DATAS = [
     position: "Member",
     party: "PDP",
     constituency: "Lavun/Mokwa/Edati Federal Constituency",
-    img: img1,
+    img: "/houseofreps/Untitled-1_0024_Hon.-Joshua-A.-Gana.-Lavun-Mokwa-Edati-Fed.const_.-Party-PDP.-Deputy-Chairman-Power.jpg",
   },
   {
     id: 51,
@@ -485,7 +405,7 @@ export const DATAS = [
     position: "Member",
     party: "PDP",
     constituency: "AGuyuk/Shelleng Federal Constituency",
-    img: img1,
+    img: "/houseofreps/Untitled-1_0023_Hon.-Kobis-Ari-Thimnu.Guyuk-Shelleng-Fed.Const_.Party-PDP.jpg",
   },
   {
     id: 52,
@@ -493,7 +413,7 @@ export const DATAS = [
     position: "Member",
     party: "LP",
     constituency: "Nsukka/Igbo-Eze South Federal Constituency",
-    img: img1,
+    img: "/houseofreps/Untitled-1_0021_Hon.-Mark-C.-Obetta.-Nsukka-Igbo-Eze-South-Fed.-Const.-Party-Labour-Party.-Committee-Legislative-Bud-370x410.jpg",
   },
   {
     id: 53,
@@ -501,7 +421,7 @@ export const DATAS = [
     position: "Member",
     party: "PDP",
     constituency: "Ardo K/Lau/Karim Lamido Federal Constituency",
-    img: img1,
+    img: "/houseofreps/Untitled-1_0019_Hon.-Mohammed-Audi.-Ardo-K-Lau-Karim-Lamido-Fed.const_.-Party-PDP.-Dep.-Chair-Rural-Development-370x410.jpg",
   },
   {
     id: 54,
@@ -509,7 +429,7 @@ export const DATAS = [
     position: "Member",
     party: "PDP",
     constituency: "Zaki Federal Constituency",
-    img: img1,
+    img: "/houseofreps/Untitled-1_0018_Hon.-Mohammed-Dan-Abba-Shehu.-Zaki-Fed.-Const.-Deputy-Chairman-Anti-Corruption-Committee-370x410.jpg",
   },
   {
     id: 55,
@@ -517,7 +437,7 @@ export const DATAS = [
     position: "Member",
     party: "NNPP",
     constituency: "AGezawa/Gabasawa Federal Constituency",
-    img: img1,
+    img: "/houseofreps/CM_0034_Hon.-Garba-Ibrahim-Muhammad.-Gwale-Kano-Fed.-Const.-Party-NNPP.-Chair-Nass-Internal-Security.jpg",
   },
   {
     id: 56,
@@ -525,7 +445,7 @@ export const DATAS = [
     position: "Member",
     party: "LP",
     constituency: "Obingwa/Ugwunagbo/Osisioma Federal Constituency",
-    img: img1,
+    img: "/houseofreps/Untitled-1_0016_Hon.-Munachim-I.-Alozie.-Obingwa-Ugwunagbo-Osisioma-fed.-Const.-Party-Labour-Party.-Committee-Finan-370x410.jpg",
   },
   {
     id: 57,
@@ -533,7 +453,7 @@ export const DATAS = [
     position: "Member",
     party: "PDP",
     constituency: "Nkanu East/West Federal Constituency",
-    img: img1,
+    img: "/houseofreps/Untitled-1_0015_Hon.-Nnolim-Nnaji.-Nkanu-East-West-Fed.-Const.-Party-PDP.-Chairman-Ports-and-Habours.jpg",
   },
   {
     id: 58,
@@ -541,7 +461,7 @@ export const DATAS = [
     position: "Member",
     party: "PDP",
     constituency: "Eleme/Oyigbo/Tai Federal Constituency",
-    img: img1,
+    img: "/houseofreps/Untitled-1_0014_Hon.-Nweke-Felix.-Eleme-Oyigbo-Tai-Federal-const.-Party-PDP.jpg",
   },
   {
     id: 59,
@@ -549,7 +469,7 @@ export const DATAS = [
     position: "Member",
     party: "PDP",
     constituency: "Kaltungo/Shongon Federal Constituency ",
-    img: img1,
+    img: "/houseofreps/Untitled-1_0013_Hon.-Obed-Shehu.-Kaltungo-Shongon-Fed.-Const.-Party-PDp.-Dep.-Chair-SME.jpg",
   },
   {
     id: 60,
@@ -557,7 +477,7 @@ export const DATAS = [
     position: "Member",
     party: "LP",
     constituency: "Ikwuano Umuahia north/Umuahai South Federal Constituency",
-    img: img1,
+    img: "/houseofreps/Untitled-1_0012_Hon.-Obi-Aguocha.-Ikwuano-Umuahia-north-Umuahai-South-Fed.-const.-Party-Labour-Party.jpg",
   },
   {
     id: 61,
@@ -565,7 +485,7 @@ export const DATAS = [
     position: "Member",
     party: "PDP",
     constituency: "Ogbia Federal Constituency ",
-    img: img1,
+    img: "/houseofreps/Untitled-1_0011_Hon.-Obordor-Mitema.-Ogbia-Fed.-Const.-Party-PDP.-Vice-Chair-FOI-and-Reforms-of-Government-Institutio-370x410.jpg",
   },
   {
     id: 62,
@@ -573,7 +493,7 @@ export const DATAS = [
     position: "Member",
     party: "PDP",
     constituency: "Eket/Onna/Esit Eket/Ibeno Federal Constituency",
-    img: img1,
+    img: "/houseofreps/Untitled-1_0010_Hon.-Okpolupm-Ikpong-Etteh.-Eket-Onna-Esit-Eket-Ibeno-Fed.-Const.Party-PDP.-Committees-Public-Acco.jpg",
   },
   {
     id: 63,
@@ -581,7 +501,7 @@ export const DATAS = [
     position: "Member",
     party: "PDP",
     constituency: "Atakumosa East/West/Ilesa East/West Federal Constituency",
-    img: img1,
+    img: "/houseofreps/Untitled-1_0008_Hon.-Omirin-Olusanya.-Atakumosa-East-West-Ilesa-East-West-Fed.-Const.-Party-PDP.-Committee-Finance--370x410.jpg",
   },
   {
     id: 64,
@@ -589,7 +509,7 @@ export const DATAS = [
     position: "Member",
     party: "PDP",
     constituency: "Nkwerre/ Nwangele/ Njaba/ Isu Federal Constituency",
-    img: img1,
+    img: "/houseofreps/Untitled-1_0007_Hon.-Ozuruigbo-Ugonna.-IsuNjaba-Nkwerre-Nwangele-Fed.-Const.Party-PDP.-Chair-Niger-Delta-Developme.jpg",
   },
   {
     id: 65,
@@ -597,7 +517,7 @@ export const DATAS = [
     position: "Member",
     party: "PDP",
     constituency: "Etinan /Nsit Ibom /Nsit Ubium Federal Constituency",
-    img: img1,
+    img: "/houseofreps/Untitled-1_0005_Hon.-Paul-A.-Ekpo.-Etinan-Nsit-Ibom-Nsit-Ubium-Fed.-Const.-Party-PDP.-Dep.-Chair-HYPADEC-370x410.jpg",
   },
   {
     id: 66,
@@ -605,7 +525,7 @@ export const DATAS = [
     position: "Member",
     party: "PDP",
     constituency: "Obanliku/Bekwarra/Obudu Federal Constituency",
-    img: img1,
+    img: "/houseofreps/Untitled-1_0004_Hon.-Peter-Akpanke.-Obanliku-Obudu-Bekwarra-Fed.const_.-Party-PDP.jpg",
   },
   {
     id: 67,
@@ -613,7 +533,7 @@ export const DATAS = [
     position: "Member",
     party: "LP",
     constituency: "Awka North/South Federal Constituency",
-    img: img1,
+    img: "/houseofreps/Untitled-1_0003_Hon.-Prof.-Lilian-Orogbu.-Awka-North-South-Fed.Const_.-Party-Labour-Party.-Chair-Corporate-Social-Re.jpg",
   },
   {
     id: 68,
@@ -621,7 +541,7 @@ export const DATAS = [
     position: "Member",
     party: "LP",
     constituency: "Enugu East/Isi-Uzo Federal Constituency",
-    img: img1,
+    img: "/houseofreps/Untitled-1_0002_Hon.-Prof.-Pual-Nnamchi.-Enugu-East-Isi-Uzo-Fed.-Const.-Party-Labour-Party.-Committee-Finance.jpg",
   },
   {
     id: 69,
@@ -629,7 +549,7 @@ export const DATAS = [
     position: "Member",
     party: "PDP",
     constituency: "Sabon Gari Federal Constituency",
-    img: img1,
+    img: "/houseofreps/Untitled-1_0001_Hon.-Sadiq-Ango-Abdullahi.-Sabon-Gari-Fed.-const.-Dep.-Chair-FERMA.jpg",
   },
   {
     id: 70,
@@ -637,7 +557,7 @@ export const DATAS = [
     position: "Member",
     party: "SDP",
     constituency: "Maiyama/Koko-Besse Federal Constituency",
-    img: img1,
+    img: "/houseofreps/Untitled-1_0000_Hon.-Salisu-Garba-Koko.-Maiyama-Koko-Besse-Fed.-Const.-Party-SDP-370x410.jpg",
   },
   {
     id: 71,
@@ -645,7 +565,7 @@ export const DATAS = [
     position: "Member",
     party: "NNPP",
     constituency: "Nasarawa Federal constituency",
-    img: img1,
+    img: "/houseofreps/CM_0002_Hon.-Hassan-Shehu-Hussain.-Nassarawa-Federal-constituency.-Party-NNPP.jpg",
   },
   {
     id: 72,
@@ -653,7 +573,7 @@ export const DATAS = [
     position: "Member",
     party: "ADC",
     constituency: "Kabba/Bunu/Ijumu Federal Constituency",
-    img: img1,
+    img: "/houseofreps/CM_0001_Hon.-Idris-Salman.-Ijumu-Kabba-BunuFed.-Const.-Party-ADC.jpg",
   },
   {
     id: 73,
@@ -661,7 +581,7 @@ export const DATAS = [
     position: "Member",
     party: "PDP",
     constituency: "Bali/Gassol Federal Constituency",
-    img: img1,
+    img: "/houseofreps/CM_0000_Hon.-Jafaru-Yakubu-.-BaliGassol-Federal-Const.-Party-PDP.jpg",
   },
   {
     id: 74,
@@ -669,7 +589,7 @@ export const DATAS = [
     position: "Member",
     party: "PDP",
     constituency: "Ndokwa/Ukwuani Federal Constituency",
-    img: img1,
+    img: "/houseofreps/Untitled-1_0028_Hon.Nnamdi-EzechiNdokwa-Ukwuani-Federal-Constituency-.PartyPDP-ChairNigeria-South-Korea-Parliament.jpg",
   },
   {
     id: 75,
@@ -677,7 +597,7 @@ export const DATAS = [
     position: "Member",
     party: "PDP",
     constituency: "Itu/Ibiono Ibom Federal Constituency",
-    img: img1,
+    img: "/houseofreps/Untitled-1_0026_Hon.-Ime-Bassey-Okon.-ItuIbiono-Ibom-Fed.-cnst.-Party-PDP.-Dep.chair-Inter-governmental-Affairs-370x410.jpg",
   },
   {
     id: 76,
@@ -685,7 +605,7 @@ export const DATAS = [
     position: "Member",
     party: "PDP",
     constituency: "Darazo/Ganjowa Federal Constituency",
-    img: img1,
+    img: "/houseofreps/Untitled-1_0022_Hon.-Mansur-Manu-Soro.-Darazo-Ganjowa-fed.-Const.-Party-PDP-.-Committee-SMEs.jpg",
   },
   {
     id: 77,
@@ -693,7 +613,7 @@ export const DATAS = [
     position: "Member",
     party: "PDP",
     constituency: "Yabo/Shagari Federal Constituency",
-    img: img1,
+    img: "/houseofreps/Untitled-1_0033_Hon.-Umar-Yusuf-Yabo.-Yabo-Shagari-Fed.const_.-Party-PDP-Committee-Niger-delta-Ministry.jpg",
   },
   {
     id: 78,
@@ -701,7 +621,7 @@ export const DATAS = [
     position: "Member",
     party: "LP",
     constituency: "Ojo Federal Constituency",
-    img: img1,
+    img: "/houseofreps/Untitled-1_0009_Hon.-Oluwaseyi-Sowunmi.-Ojo-Fed.Const_.-Party-Labour-Party-Committee-Dep.-chair-Local-Content.jpg",
   },
   {
     id: 79,
@@ -709,6 +629,6 @@ export const DATAS = [
     position: "Member",
     party: "PDP",
     constituency: "Andoni/Opobo Nkoro Federal Constituency",
-    img: img1,
+    img: "/houseofreps/CM_0012_Hon.-Awaji-Inombek-Abiante.-Andoni-Opobo-Nkoro-Fed.Const_.-Party-PDP.-Chair-Urban-and-Regional-Development.jpg",
   },
 ];

@@ -1,6 +1,6 @@
 import "./App.css";
 import { buttons } from "./ButtonData";
-import { useState } from "react";
+import { useEffect, useState } from "react";
 import { getData, filterData } from "./Services";
 const ItemsPerPage = 10;
 function App() {
@@ -19,6 +19,9 @@ function App() {
         );
       })
     : [];
+  useEffect(() => {
+    setFilteredData(getData());
+  }, []);
 
   const handleData = (event) => {
     let typeData = event.target.value;
@@ -41,21 +44,33 @@ function App() {
     <div className="App">
       <div className="btn-group">
         {buttons &&
-          buttons.map((item) => (
-            <div key={item.id}>
-              <button
-                style={{ cursor: "pointer" }}
-                value={item.value}
-                onClick={handleData}
-              >
-                {item.name}
-              </button>
-            </div>
+          buttons?.map((item) => (
+            <button
+              key={item.id}
+              style={{
+                cursor: "pointer",
+                border: "none",
+                width: "120px",
+                height: "30px",
+                padding: "10px",
+                backgroundColor: "black",
+                color: "wheat",
+              }}
+              value={item.value}
+              onClick={handleData}
+            >
+              {item.name}
+            </button>
           ))}
       </div>
 
       <div className="input-group">
-        <input type="text" placeholder="search" onChange={handleChange} />
+        <input
+          type="text"
+          placeholder="search"
+          onChange={handleChange}
+          style={{ height: "100px" }}
+        />
       </div>
       <div className="card-container">
         {currentData &&

@@ -9,16 +9,11 @@ function App() {
   const [currentPage, setCurrentPage] = useState(1);
   const lastIndex = currentPage * ItemsPerPage;
   const firstIndex = lastIndex - ItemsPerPage;
+
   const currentData = filteredData
-    ? filteredData.slice(firstIndex, lastIndex).filter((user) => {
-        return (
-          user.name.toLowerCase().includes(query.toLowerCase()) ||
-          user.position.toLowerCase().includes(query.toLowerCase()) ||
-          user.party.toLowerCase().includes(query.toLowerCase()) ||
-          user.constituency.toLowerCase().includes(query.toLowerCase())
-        );
-      })
+    ? filteredData.slice(firstIndex, lastIndex)
     : [];
+
   useEffect(() => {
     setFilteredData(getData());
   }, []);
@@ -32,6 +27,7 @@ function App() {
 
   const handleChange = (event) => {
     setQuery(event.target.value);
+    setCurrentPage(1);
   };
   const handlePrevPage = () => {
     setCurrentPage(currentPage - 1);

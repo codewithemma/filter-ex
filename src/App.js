@@ -7,6 +7,7 @@ function App() {
   const [filteredData, setFilteredData] = useState(null);
   const [query, setQuery] = useState("");
   const [currentPage, setCurrentPage] = useState(1);
+  const [isOpen, setIsOpen] = useState(false);
   const lastIndex = currentPage * ItemsPerPage;
   const firstIndex = lastIndex - ItemsPerPage;
 
@@ -23,12 +24,26 @@ function App() {
     typeData !== "all"
       ? setFilteredData(filterData(typeData))
       : setFilteredData(getData());
+    setIsOpen(false);
   };
 
   const handleChange = (event) => {
     setQuery(event.target.value);
-    setCurrentPage(1);
+    setFilteredData(
+      filteredData.filter((user) => {
+        return (
+          user.name.toLowerCase().includes(query.toLowerCase()) ||
+          user.position.toLowerCase().includes(query.toLowerCase()) ||
+          user.party.toLowerCase().includes(query.toLowerCase()) ||
+          user.constituency.toLowerCase().includes(query.toLowerCase())
+        );
+      })
+    );
   };
+  // const handleChange = (event) => {
+  //   setQuery(event.target.value);
+  //   setCurrentPage(1);
+  // };
   const handlePrevPage = () => {
     setCurrentPage(currentPage - 1);
   };
@@ -59,7 +74,38 @@ function App() {
             </button>
           ))}
       </div>
-
+      <div>
+        <div className="dropdown">
+          <button
+            className="dropdown-toggle"
+            onClick={() => setIsOpen(!isOpen)}
+          >
+            Select a Party
+          </button>
+          <div>
+            {isOpen &&
+              buttons?.map((item) => (
+                <button
+                  key={item.id}
+                  style={{
+                    cursor: "pointer",
+                    border: "none",
+                    width: "120px",
+                    height: "30px",
+                    padding: "10px",
+                    backgroundColor: "black",
+                    color: "wheat",
+                    display: "flex",
+                  }}
+                  value={item.value}
+                  onClick={handleData}
+                >
+                  {item.name}
+                </button>
+              ))}
+          </div>
+        </div>
+      </div>
       <div className="input-group">
         <input
           type="text"
